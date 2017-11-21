@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "description": "A simple 'Hello, world!' example in Node.js",
+  "author": "Tal Ben-Ari <tbenari@ucsd.edu>",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
